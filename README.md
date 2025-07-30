@@ -4,7 +4,7 @@
 <h2>1. What is the difference between Git and GitHub?</h2>
 <h3>Git</h3>
 <p>
-  <strong>Git </strong>strong>is a Version Control System used by developers, individuals, and companies to track changes made to code and projects over time.
+  <strong>Git </strong>is a Version Control System used by developers, individuals, and companies to track changes made to code and projects over time.
   I can use Git offline, locally on my personal computer, and all changes I make are saved on my device.
   In companies, Git helps teams work efficiently—every team member can work on their assigned task or part of the project independently, without waiting for others    to finish.
   Once I complete my part, I can upload (push) my changes to the project’s Git repository, whether it’s hosted on GitHub or an internal company server. At that        point, all our work gets merged into one shared project.
@@ -103,6 +103,6 @@ It's typically used in the following cases:
   </li>
 </ol>
 
-,ا3
+
 
 
